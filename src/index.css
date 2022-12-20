@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* .css-dev-only-do-not-override-26rdvq  {
+  height: 50px;
+} */
+.ant-input-group-addon {
+  width: 40px;
+  height: 0px;
+  padding: 50px;
+  border: 70px;
+}
+@media only screen and (max-width: 390px) {
+  .ant-modal-content {
+    width: 200px;
+    height: 280px;
+    margin-left: 80px;
+  }
+}
